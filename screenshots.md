@@ -30,4 +30,3 @@
 
 <img width="959" alt="image" src="https://github.com/HanishDevOps/DEVOPS-AWS/assets/150304178/b7b36795-9302-4fc2-9664-55204e7ceb26">
 
-6. 
